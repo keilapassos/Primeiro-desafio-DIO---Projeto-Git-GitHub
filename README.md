@@ -3,3 +3,4 @@ O desafio é criar um repositório remoto e fazer modificações local e mandar 
 
 ## Links Úteis:
 Tutorial git (documentação) - https://git-scm.com/docs/gittutorial
+GitHub Guides (documentação) - https://guides.github.com/activities/hello-world/
